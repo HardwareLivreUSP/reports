@@ -64,6 +64,6 @@ Na enquete sobre temas tivemos um total de 19 participações.
  - Definição do core do grupo
 
  ## Datas
-Para o periodo de 26 Julho à 12 de agosto, temos como o dia e horário de maior confluência de pessoas as Quintas das 13h as 16h. 
+Para o periodo de 26 Julho à 12 de agosto, temos como o dia e horário de maior confluência de pessoas as Sexta das 13h as 16h. 
 
  
