@@ -57,7 +57,7 @@ Na enquete sobre temas tivemos um total de 19 participações.
  - [Uma espécie de máquina que irá até a atmosfera coletar dados ambientais.](https://www.youtube.com/watch?v=AOkDBxm4Myk)
 
  ## Pauta de Reunião
- - Discução do formato dos workshops
+ - Discussão do formato dos workshops
  - Desejamos encadear os workshops de forma que ao final tenhamos executado um projeto?
  - Competição ao final? (Ex: Carros seguires de linha, disputa de veiculos autonomos miniatura, sumo de robo, batalha de robôs, etc)
  - Organização das reuniões e frequência
